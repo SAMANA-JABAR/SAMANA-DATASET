@@ -8,6 +8,7 @@
 - [Selected Theme](#selected-theme)
 - [Title](#title)
 - [Usage](#usage)
+- [Details](#details)
 
 ## Introduction
 
@@ -25,6 +26,16 @@ Decision Support System for West Java Social Assistance using the SAW and K-Mean
 
 ```
 -
+```
+
+## Details
+
+```
+- Dataset_Kependudukan.xlsx -> raw data set
+- Dataset_Kependudukan_NIK.xlsx -> raw data set that already has a NIK
+- train_datasetKependudukan.xlsx -> data set for model training
+- HasilPenerimaBansos.xlsx -> training results (all columns are present)
+- PenerimaBansos.csv -> training results (only NIK & social assistance status)
 ```
 
 ## License
